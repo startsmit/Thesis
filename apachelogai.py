@@ -1,7 +1,7 @@
 import openai
 
 # Set up the OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define the path to the log file
 log_file_path = r"S:\Thesis\Apache_2k.log"

@@ -2,7 +2,7 @@ import csv
 import openai
 
 # Set up the OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define the path to the log file and output file
 log_file_path = r"C:\Users\91910\Downloads\logai-20230310T063957Z-001\logai\Apache.log"
