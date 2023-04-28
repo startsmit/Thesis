@@ -1,0 +1,22 @@
+Date,Time,Log Level,Module,Client IP Address,HTTP Request Method,HTTP Request Path,Message
+Date: Thu Jun 09,Time: 06:07:04,Log Level: Notice,Module: LDAP,Client IP Address: Not Present,HTTP Request Method: Not Present,HTTP Request Path: Not Present,Message: Built with OpenLDAP LDAP SDK
+Date: Sat Feb 11,Time: 09:53:36,Log Level: error,Module: client,Client IP Address: 80.68.92.54,HTTP Request Method: N/A,HTTP Request Path: /var/www/html/blog,Message: File does not exist
+Date: Sat Feb 11,Time: 09:53:36,Log Level: error,Module: jk2_init(),Message: Can't find child 4646 in scoreboard
+Date: Sat Feb 11,Time: 09:53:36,Log Level: notice,Module: workerEnv.init(),Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: ok /etc/httpd/conf/workers2.properties
+Date: Sat Feb 11,Time: 09:53:36,Log Level: error,Module: mod_jk,Client IP Address: Not Present,HTTP Request Method: Not Present,HTTP Request Path: Not Present,Message: child init 1 -2
+Date: Thu Jun 09,Time: 06:07:04,Log Level: Notice,Module: LDAP,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: SSL support unavailable
+Date: Thu Jun 09,Time: 06:07:04,Log Level: notice,Module: suEXEC mechanism enabled,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: wrapper: /usr/sbin/suexec
+Date: Thu Jun 09,Time: 06:07:05,Log Level: notice,Module: Digest,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: generating secret for digest authentication ...
+Date: Thu Jun 09,Time: 06:07:05,Log Level: Notice,Module: Digest,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: Done
+Date: Thu Jun 09,Time: 06:07:05,Log Level: notice,Module: LDAP,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: Built with OpenLDAP LDAP SDK
+Date: Thu Jun 09,Time: 06:07:05,Log Level: notice,Module: LDAP,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: SSL support unavailable
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: env.createBean2(),Client IP Address: Not Present,HTTP Request Method: Not Present,HTTP Request Path: Not Present,"Message: Factory error creating channel.jni:jni ( channel.jni, jni)"
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: config.update(),Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: Can't create channel.jni:jni
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: env.createBean2(),Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,"Message: Factory error creating vm: ( vm, )"
+Host not found,,Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: config.update(),Message: Can't create vm: Host not found,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: env.createBean2(),Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,"Message: Factory error creating worker.jni:onStartup ( worker.jni, onStartup)"
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: config.update(),Message: Can't create worker.jni:onStartup
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: env.createBean2(),Client IP Address: Not Present,HTTP Request Method: Not Present,HTTP Request Path: Not Present,"Message: Factory error creating worker.jni:onShutdown ( worker.jni, onShutdown)"
+Date: Thu Jun 09,Time: 06:07:05,Log Level: error,Module: config.update(),Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: Can't create worker.jni:onShutdown
+Date: Thu Jun 09,Time: 06:07:16,Log Level: notice,Module: mod_python,Client IP Address: N/A,HTTP Request Method: N/A,HTTP Request Path: N/A,Message: Creating 32 session mutexes based on 150 max processes and 0 max threads.
+Date: Thu Jun 09,Time: 06:07:19,Log Level: notice,Module: mod_security/1.9dev2,Client IP Address: Not Present,HTTP Request Method: Not Present,HTTP Request Path: Not Present,Message: configured
